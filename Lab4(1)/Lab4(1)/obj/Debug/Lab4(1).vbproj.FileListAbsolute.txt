@@ -1,0 +1,11 @@
+c:\users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).exe.config
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).exe
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).pdb
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\bin\Debug\Lab4(1).xml
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).vbprojResolveAssemblyReference.cache
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4_1_.Resources.resources
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).vbproj.GenerateResource.Cache
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).exe
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).xml
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4(1).pdb
+C:\Users\vyasd\documents\visual studio 2015\Projects\Lab4(1)\Lab4(1)\obj\Debug\Lab4_1_.frmCarInventory.resources
